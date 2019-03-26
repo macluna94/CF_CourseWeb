@@ -35,3 +35,5 @@ sudo mv ~/Descargas/android-studio /usr/local/
 cd /usr/local/android-studio/bin
 ./studio.sh
 ```
+
+Movimos los alrchivos y ahora procedemos a instalar
