@@ -18,7 +18,7 @@ links.forEach(function(link){
 		content.classList.add("animated");
 
 		setTimeout(function(){
-			location.href = "../index.html";
+			location.href = "../";
 		},1000);
 		return false;
 	})
