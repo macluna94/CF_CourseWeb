@@ -1,0 +1,232 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	height: auto;
+	padding-bottom: 75px;
+}
+nav{
+	background-color: #efefef;
+	overflow: hidden;
+	position: absolute;
+	z-index: 1;
+	width: 100%
+}
+nav ul{
+	margin-right: 50px;
+}
+nav ul li{
+	margin: 20px;
+	float: right;
+	display: inline;
+}
+li a{
+	text-decoration: none;
+	color: black;
+	font-size: 1em;
+}
+.logo_space{
+	float: left;
+	padding: 1em;
+	width: 30%
+}
+.logo{
+	font-size: 1em;
+	text-decoration: none;
+}
+.iconNav{
+	cursor: pointer;
+	font-size: 1em;
+	display: block;
+	margin: 20px;
+
+}
+
+
+
+
+
+.gallery{
+	display: flex;
+	flex-direction: row-reverse;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+h1{
+	animation: skew 4s infinite alternate;
+}
+
+body{
+
+	background-image: url(../place.jpg);
+	/*
+
+	background-image: url("../E53.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100px 100px;
+	/*background: repeating-linear-gradient(45deg,red, yellow, green);
+
+	background: radial-gradient(#FF3691, #6F41FF, green);*/
+}
+
+.uno{
+	background-color: white;
+	border-radius: 1em;
+	text-align: center;
+	border: double yellow 1em;
+	font-family: 'Lobster', cursive;;
+	font-style: italic;
+	font-size: 2em;
+	text-orientation: initial;
+	text-shadow: 2px 2px 2px red;
+}
+p{
+	font-family:'Catamaran', sans-serif;;
+	font-size: 1em;
+	background-color: white;
+	border-radius: 1em;
+	padding: 10px;
+}
+.vtn{
+	border-radius: 100%;
+	border: solid yellow;
+	border-style: double;
+	width: 100px;
+	margin-left: 50%;
+	margin-right: 50%;
+}
+.vtn:hover{
+	box-shadow: 0 2px 1px black;
+	width: 110px;
+}
+.polar{
+	background-color: white;
+	width: 200px;
+	padding: 10px;
+	padding-bottom: 50px;
+	position: relative;
+	display: block;
+	transition: transform 4s;
+
+	/*
+	animation-name: skew;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	*/
+	animation: skew 4s infinite alternate;
+
+}
+	.imagen{
+	width: 200px;
+	}
+/*
+.polar:hover{
+	transform: skew(-20deg);
+	transition-delay: 0.5s;
+}
+*/
+.polar img{
+	filter: grayscale(1);
+}
+.polar img:hover{
+ filter: grayscale(0);
+ cursor: pointer;
+}
+.img-text{
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	color: red;
+	font-size: 2em;
+	font-family: 'Lobster', cursive;
+
+}
+
+
+.parraf::first-letter{
+	color: green;
+	font-size: 2em;
+}
+.parraf::selection{
+	background-color: cyan;
+}
+
+@keyframes skew{
+	0%{transform: skewX(-10deg);}
+	100%{transform: skewY(10deg);}
+}
+
+@media screen and (max-width: 480px){
+	h1{
+	color: blue;
+	}
+	.uno{
+	background-color: white;
+	border-radius: 1em;
+	text-align: center;
+	font-family: 'Lobster', cursive;;
+	font-size: 1em;
+	text-shadow: 2px 2px 2px red;
+	}
+
+	body{
+	background-image: url(../place.jpg);
+	background-repeat: repeat-y;
+	}
+
+	.imagen{
+	width: 100px;
+	}
+	.polar{
+	background-color: yellow;
+	width: 100px;
+	padding: 5px;
+	padding-bottom: 25px;
+	position: relative;
+	display: block;
+	transition: transform 4s;
+
+	/*
+	animation-name: skew;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	*/
+	animation: skew 4s infinite alternate;
+
+	}
+
+
+	p{
+	font-family:'Catamaran', sans-serif;;
+	font-size: 1em;
+	background-color: white;
+	border-radius: 1em;
+	padding: 2px;
+	text-align: center;
+	}
+
+	nav ul li{
+		display: none;
+	}
+
+
+}
+.show{
+	display: block;
+	float: none;
+}
+
+@media (min-width: 500px){
+	.iconNav{
+		display: none;
+	}
+}
