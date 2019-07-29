@@ -1,0 +1,212 @@
+[
+   {
+      "nombreid": "5d3e37d542fdbf564cb5c714",
+      "id": 0,
+      "fotografia": "http://placehold.it/32x32",
+      "edad": 22,
+      "colorfavorito": "blue",
+      "nombre": "Noelle Rice",
+      "genero": "female",
+      "compania": "ZYTREK",
+      "email": "noellerice@zytrek.com",
+      "telefono": "+52 (895) 526-3669",
+      "direccion": "434 Orient Avenue, Emison, Wyoming, 4551",
+      "sobre": "Exercitation labore non sint Lorem ea labore proident nulla anim elit exercitation tempor et dolore. Ullamco nisi ut excepteur irure sunt magna nulla sint. Amet quis excepteur officia culpa excepteur velit ullamco qui ea pariatur adipisicing. In ex deserunt consectetur culpa culpa sit esse. Ea non et culpa amet laborum elit.\r\n",
+      "registrado": "2014-11-29T03:11:59 +06:00",
+      "latitude": -34.937569,
+      "longitude": -14.289153,
+      "tags": [
+         "id",
+         "et",
+         "nisi",
+         "nostrud",
+         "ullamco",
+         "consequat",
+         "aliqua"
+      ],
+      "amigos": [
+         {
+            "id": 0,
+            "name": "Franco Hartman"
+         },
+         {
+            "id": 1,
+            "name": "Ina Ryan"
+         },
+         {
+            "id": 2,
+            "name": "Chase Weber"
+         }
+      ],
+      "saludo": "Hola, Noelle Rice! Tu tienes5 mensajes sin leer .",
+      "frutasfavoritas": "strawberry"
+   },
+   {
+      "nombreid": "5d3e37d5cc5001411019a2b0",
+      "id": 1,
+      "fotografia": "http://placehold.it/32x32",
+      "edad": 36,
+      "colorfavorito": "green",
+      "nombre": "Estella Conner",
+      "genero": "female",
+      "compania": "NETPLAX",
+      "email": "estellaconner@netplax.com",
+      "telefono": "+52 (807) 463-3543",
+      "direccion": "164 Crown Street, Boomer, Delaware, 6177",
+      "sobre": "Ullamco qui laborum id dolor aliqua est velit incididunt sit magna velit. Labore Lorem est dolor aliqua et nulla irure elit incididunt quis dolor adipisicing eiusmod. Cillum excepteur do proident officia. Veniam minim id voluptate irure ullamco. Adipisicing excepteur ad amet mollit labore pariatur nostrud nulla. Minim nisi dolore est cillum excepteur ad irure ipsum culpa et reprehenderit consequat dolor anim. Labore enim voluptate Lorem consectetur consectetur adipisicing proident deserunt duis minim cupidatat sunt.\r\n",
+      "registrado": "2019-07-21T09:02:45 +05:00",
+      "latitude": -53.299195,
+      "longitude": 34.292248,
+      "tags": [
+         "ullamco",
+         "ut",
+         "sunt",
+         "do",
+         "voluptate",
+         "incididunt",
+         "Lorem"
+      ],
+      "amigos": [
+         {
+            "id": 0,
+            "name": "Kristie Carey"
+         },
+         {
+            "id": 1,
+            "name": "Brianna Lopez"
+         },
+         {
+            "id": 2,
+            "name": "Jolene Hudson"
+         }
+      ],
+      "saludo": "Hola, Estella Conner! Tu tienes5 mensajes sin leer .",
+      "frutasfavoritas": "apple"
+   },
+   {
+      "nombreid": "5d3e37d56bb6a6f8bdc2d12e",
+      "id": 2,
+      "fotografia": "http://placehold.it/32x32",
+      "edad": 35,
+      "colorfavorito": "brown",
+      "nombre": "Faulkner Yang",
+      "genero": "male",
+      "compania": "ZOXY",
+      "email": "faulkneryang@zoxy.com",
+      "telefono": "+52 (829) 480-2377",
+      "direccion": "196 Leonard Street, Walton, West Virginia, 5485",
+      "sobre": "Aliquip velit id aliquip cillum id velit non incididunt velit irure. Cillum laborum irure occaecat ad culpa duis. Esse culpa aliqua ea esse culpa. Aliqua amet magna irure velit quis reprehenderit ut dolore. Voluptate veniam anim officia deserunt aute reprehenderit laborum dolor labore voluptate culpa dolor non quis. Cupidatat qui adipisicing officia commodo cillum laborum. Tempor cupidatat voluptate esse ea mollit.\r\n",
+      "registrado": "2019-04-11T09:55:40 +05:00",
+      "latitude": 71.448761,
+      "longitude": 106.569011,
+      "tags": [
+         "sint",
+         "voluptate",
+         "et",
+         "occaecat",
+         "commodo",
+         "ex",
+         "qui"
+      ],
+      "amigos": [
+         {
+            "id": 0,
+            "name": "Delaney Gross"
+         },
+         {
+            "id": 1,
+            "name": "Byrd Day"
+         },
+         {
+            "id": 2,
+            "name": "Garrett Stein"
+         }
+      ],
+      "saludo": "Hola, Faulkner Yang! Tu tienes3 mensajes sin leer .",
+      "frutasfavoritas": "apple"
+   },
+   {
+      "nombreid": "5d3e37d5b330d38ebddeea5c",
+      "id": 3,
+      "fotografia": "http://placehold.it/32x32",
+      "edad": 38,
+      "colorfavorito": "blue",
+      "nombre": "Carson Huber",
+      "genero": "male",
+      "compania": "CONCILITY",
+      "email": "carsonhuber@concility.com",
+      "telefono": "+52 (900) 497-3865",
+      "direccion": "303 Merit Court, Caron, South Dakota, 1746",
+      "sobre": "Ex voluptate qui ad culpa est. Nostrud enim quis adipisicing pariatur in deserunt labore exercitation amet sunt laboris aliqua excepteur amet. Et velit dolor aliquip commodo occaecat exercitation cillum nostrud mollit veniam. Ad occaecat veniam culpa culpa adipisicing do eiusmod non consequat. Enim adipisicing ullamco est ut ipsum cupidatat nulla ut minim adipisicing minim. Cupidatat minim sit laborum Lorem Lorem ut. Aute minim incididunt consectetur nisi aliqua dolor dolor.\r\n",
+      "registrado": "2018-12-26T11:32:16 +06:00",
+      "latitude": 70.144297,
+      "longitude": -149.950495,
+      "tags": [
+         "reprehenderit",
+         "aliquip",
+         "in",
+         "ad",
+         "fugiat",
+         "dolore",
+         "magna"
+      ],
+      "amigos": [
+         {
+            "id": 0,
+            "name": "Krystal Mcgee"
+         },
+         {
+            "id": 1,
+            "name": "Santiago Ayala"
+         },
+         {
+            "id": 2,
+            "name": "Whitley Valencia"
+         }
+      ],
+      "saludo": "Hola, Carson Huber! Tu tienes8 mensajes sin leer .",
+      "frutasfavoritas": "banana"
+   },
+   {
+      "nombreid": "5d3e37d5048c62325e058127",
+      "id": 4,
+      "fotografia": "http://placehold.it/32x32",
+      "edad": 38,
+      "colorfavorito": "green",
+      "nombre": "Rios Roth",
+      "genero": "male",
+      "compania": "ZINCA",
+      "email": "riosroth@zinca.com",
+      "telefono": "+52 (847) 447-3270",
+      "direccion": "731 Anna Court, Ogema, Montana, 9392",
+      "sobre": "Tempor anim duis do labore aliquip non laboris. Proident sint tempor aute mollit et ullamco ullamco Lorem pariatur. Pariatur commodo dolore et quis officia minim dolore. Tempor excepteur sint labore magna voluptate non fugiat irure anim occaecat amet ut commodo ut.\r\n",
+      "registrado": "2018-08-11T02:18:38 +05:00",
+      "latitude": 19.731888,
+      "longitude": 94.721988,
+      "tags": [
+         "aliquip",
+         "ad",
+         "sint",
+         "dolor",
+         "dolor",
+         "ipsum",
+         "magna"
+      ],
+      "amigos": [
+         {
+            "id": 0,
+            "name": "Nash Richmond"
+         },
+         {
+            "id": 1,
+            "name": "Knight Joyner"
+         },
+         {
+            "id": 2,
+            "name": "Janice West"
+         }
+      ],
+      "saludo": "Hola, Rios Roth! Tu tienes6 mensajes sin leer .",
+      "frutasfavoritas": "strawberry"
+   }
+]
